@@ -30,7 +30,7 @@ contact_url: "https://goo.gl/tVljbV"
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
