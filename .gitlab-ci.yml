@@ -21,7 +21,7 @@ test:
     paths:
     - test
   except:
-  - gh-pages
+  - master
 
 pages:
   stage: deploy
